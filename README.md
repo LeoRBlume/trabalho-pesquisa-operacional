@@ -1,7 +1,3 @@
-## Trabalho de Pesquisa Operacional II
-
-<br/>
-
 ## 1° Explicando os arquivos
 
 <br/>
